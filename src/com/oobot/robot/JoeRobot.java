@@ -6,7 +6,7 @@ import robocode.ScannedRobotEvent;
 
 /**
  * Joe le robot qui poutre !
- * 
+ *  
  * @author nudo
  * 
  */
